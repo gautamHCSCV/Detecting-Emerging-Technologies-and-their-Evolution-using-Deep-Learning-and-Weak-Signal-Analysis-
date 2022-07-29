@@ -5,6 +5,9 @@ This is a direct implementation of the following paper: https://arxiv.org/ftp/ar
 
 Dataset used: NIPS papers (1987-2017): https://www.kaggle.com/datasets/benhamner/nips-papers?resource=download
 
+![image](https://user-images.githubusercontent.com/65457437/181742536-dab186de-a9c0-4509-b690-876cc5d175b8.png)
+
+
 In the paper, authors have presented a multi-layer quantitative approach able to identify
 future signs from scientific publications on different technical terms by leveraging deep
 learning and weak signal analysis. First, they improve upon keyword extraction by going
